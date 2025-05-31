@@ -1,0 +1,7 @@
+# Ignore sensitive data
+*.csv
+# Ignore temp files
+*.tmp
+*.log
+# Ignore sensitive configs if any
+snowflake_config.json
